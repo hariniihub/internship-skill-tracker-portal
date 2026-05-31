@@ -19,6 +19,4 @@ A web application developed using Django and MySQL to help students manage skill
 - HTML
 - CSS
 
-## Author
 
-Harini Sri S
